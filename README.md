@@ -56,6 +56,8 @@ Data Structures Technical Interviewing Workshop
 
 # Lets Code
 
+- [Unsolved Version](https://github.com/msallam227/technical_interviewing/blob/master/02.%20Fibonacci%20Sequence/unsolvedrecursion.js)
+- [Solved Version](https://github.com/msallam227/technical_interviewing/blob/master/02.%20Fibonacci%20Sequence/solvedrecursion.js)
 - Have the Second CD on the call put the unsolvedrecursion.js file in the chat.
 - Make sure that you emphasize that Psuedo Coding is important and that it is crucial that they psuedo code before they complete this task. If they do not psuedo code then the Technical Interviewer can take it against them.
 - Psuedo Coding is a great way for them to showcase their thought process. If they are able to explain what the Fibonacci Sequence / Recursion is doing and write minimal code then it will still be a strong answer.
